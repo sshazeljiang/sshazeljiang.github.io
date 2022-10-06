@@ -1,2 +1,27 @@
 title: "UNAGI"
+description: An interactive tool for analyzing single-cell omics data
+baseurl: "/unagi" # the subpath of your site, e.g. /blog
+url: "https://sshazeljiang.github.io"
+
 remote_theme: just-the-docs/just-the-docs
+
+defaults:
+  - scope:
+      path: "assets/images"
+    values:
+      image: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
+markdown: kramdown
+kramdown:
+  math_engine: katex
+
+footer_content: ""
+
+aux_links:
+  "UNGAI on GitHub":
+    - "//github.com/Karlxy0511/IPF_Dashboard"
+
+aux_links_new_tab: true
