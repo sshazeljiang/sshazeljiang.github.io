@@ -15,9 +15,8 @@ UNAGI is developed and actively maintained by [the Ding Lab](https://junding.lab
 [Visit UNAGI](http://dinglab.rimuhc.ca/unagi/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/Karlxy0511/IPF_Dashboard){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ---
-
 ## Installation
-For full instructions, please see the [Installation](/sshazeljiang.github.io/docs/getting-started/installation)
+For full instructions, please see the [Installation](/docs/getting-started/installation/)
 
 ## Notes
 * https://www.nature.com/articles/s41598-018-28948-z#Sec1
