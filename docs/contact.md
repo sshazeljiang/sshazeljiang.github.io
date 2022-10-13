@@ -1,7 +1,7 @@
 ---
 title: Contact
 layout: default
-nav_order: 1
+nav_order: 3
 ---
 
 # Some contact infomation
