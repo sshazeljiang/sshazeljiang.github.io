@@ -2,15 +2,17 @@ title: "UNAGI"
 description: An interactive tool for analyzing single-cell omics data
 baseurl: "/unagi" # the subpath of your site, e.g. /blog
 url: "https://sshazeljiang.github.io"
-
-remote_theme: just-the-docs/just-the-docs
-# remote_theme: allejo/jekyll-docs-theme@v1.0.0
+permalink: pretty
+#remote_theme: just-the-docs/just-the-docs
+remote_theme: chrisrhymes/bulma-clean-theme
 
 defaults:
-  - scope:
-      path: "assets/images"
+  -
+    scope:
+      path: ""
+      type: "pages"
     values:
-      image: true
+      show_sidebar: true
 
 back_to_top: true
 back_to_top_text: "Back to top"
@@ -18,6 +20,7 @@ back_to_top_text: "Back to top"
 markdown: kramdown
 kramdown:
   math_engine: katex
+highlighter: rouge
 
 footer_content: ""
 

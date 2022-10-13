@@ -1,13 +1,12 @@
 ---
 title: Home
-layout: default
-nav_order: 1
+layout: page
+menubar: docs_menu
 description: "UNAGI is a dashboard that visualizes dynamic single-cell omics data found in the IPF Research."
-permalink: /
+show_sidebar: false
 ---
 
 # UNAGI Documentation
-{: .fs-9}
 
 **UNAGI** is a dashboard that visualizes dynamic single-cell omics data found in the IPF Research of Yumin Zheng and Dr. Jun Ding of the Meakins-Christie Laboratories at McGill University. UNAGI is built in Python using the Dash framework and relies on several open-source packages.
 

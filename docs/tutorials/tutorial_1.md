@@ -1,11 +1,12 @@
 ---
 layout: page
 menubar: docs_menu
-title: Contact
+title: Tutorial 1
+subtitle: Tutorials
 show_sidebar: false
 toc: true
 ---
 
-# Some contact infomation
+# tutorials
 
 ---
