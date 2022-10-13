@@ -1,9 +1,9 @@
 title: "UNAGI"
 description: An interactive tool for analyzing single-cell omics data
-baseurl: "/unagi" # the subpath of your site, e.g. /blog
+# baseurl: "/unagi" # the subpath of your site, e.g. /blog
 url: "https://sshazeljiang.github.io"
 permalink: pretty
-#remote_theme: just-the-docs/just-the-docs
+# remote_theme: just-the-docs/just-the-docs
 remote_theme: chrisrhymes/bulma-clean-theme
 
 defaults:
