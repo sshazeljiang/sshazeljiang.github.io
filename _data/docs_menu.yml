@@ -2,6 +2,8 @@
   items:
     - name: Installation
       link: /docs/getting-started/installation/
+    - name: Core Dependencies
+      link: /docs/getting-started/dependencies/
 
 
 - label: Tutorials

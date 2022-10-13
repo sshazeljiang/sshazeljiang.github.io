@@ -7,35 +7,50 @@ show_sidebar: false
 toc: true
 ---
 
-## Use the Gem with Jekyll
-
-**This theme requires Jekyll 3.9 to be compatible with GitHub Pages.**
-
-Add this line to your Jekyll site's `Gemfile`:
-
-```ruby
-gem "bulma-clean-theme"
+## Local Installation
+1. Clone the [UNAGI repository](https://github.com/Karlxy0511/IPF_Dashboard) and open it
 ```
-
-And add this line to your Jekyll site's `_config.yml`:
-
-```yaml
-theme: bulma-clean-theme
+git clone https://github.com/Karlxy0511/IPF_Dashboard.git
+cd IPF_Dashboard
 ```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install bulma-clean-theme
-
-## GitHub Pages
-
-If you are deploying to GitHub pages, then you can also install the [GitHub Pages gem](https://github.com/github/pages-gem) and use `remote_theme` instead of `theme` in your `_config.yml`.
-
-```yaml
-# With GitHub Pages Gem
-remote_theme: chrisrhymes/bulma-clean-theme
+2. Optimially, set up a virtual enviroment to avoid package version conflicts between different projects
+on your machine. In this case, we call it `env`:
+   1. For mac:
+    ```
+    python3 -m venv env
+    source env/bin/activate
+    ```
+   2. For windows:
+    ```
+    python -m venv env
+    env\Scripts\activate
+    ```
+3. Make sure the base interpreter is set to Python3.9. Install the correct version of the necessary packages. Windows users should replace 'pip3' with 'pip':
 ```
+pip3 install -r requirements.txt
+```
+4. Place the h5ad database on the same level with the `\assets` directory.
+
+5. Run setup.sh
+```
+chmod u+x setup/setup.sh
+./setup/setup.sh dataset_06_22_22.h5ad
+```
+If you are unable to run setup.sh on your machine, please do the following:
+- Create a folder in the same directory called `stage-dataset` by running `mkdir stage-dataset`; this will be gitignored
+- Run the segmentation script (replace 'python3' with 'python' if you are a windows user) 
+   ```
+   cd setup
+   python3 segmentation.py --data ../dataset_06_22_22.h5ad --seg stages
+   cd ..
+   ```
+
+6. Run UNAGI. UNAGI.py requires arguments for both the dataset and iDrem paths. For our current iteration it is (replace 'python3' with 'python' if you are a windows user) :
+```
+python3 UNAGI.py --data dataset_06_22_22.h5ad --idrem assets/idrem
+```
+7. Wait for about 3 minutes till a text message shows on your terminal. You can now visit UNAGI at [localhost:8050/unagi](localhost:8050/unagi) on your web browser.
+
+## Usage
+In order to successfully run the file you need the `\assets` directory as well as the h5ad database in the same folder as the file.
+Add all extrenous `.css` files to assets. 
