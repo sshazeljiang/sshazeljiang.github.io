@@ -22,7 +22,8 @@ kramdown:
   math_engine: katex
 highlighter: rouge
 
-copyright: © 2022 DingLab, McGill University.
+# footer_content: "© 2022 DingLab, McGill University."
+# copyright: © 2022 DingLab, McGill University.
 
 aux_links:
   "UNGAI on GitHub":

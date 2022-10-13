@@ -17,7 +17,7 @@ UNAGI is developed and actively maintained by [the Ding Lab](https://junding.lab
 ---
 
 ## Installation
-For full instructions, please see the [Installation](/sshazeljiang.github.io/docs/)
+For full instructions, please see the [Installation](/sshazeljiang.github.io/docs/installation)
 
 
 ## Notes
