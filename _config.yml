@@ -3,8 +3,8 @@ description: An interactive tool for analyzing single-cell omics data
 baseurl: "/unagi" # the subpath of your site, e.g. /blog
 url: "https://sshazeljiang.github.io"
 
-# remote_theme: just-the-docs/just-the-docs
-remote_theme: allejo/jekyll-docs-theme@v1.0.0
+remote_theme: just-the-docs/just-the-docs
+# remote_theme: allejo/jekyll-docs-theme@v1.0.0
 
 defaults:
   - scope:
