@@ -12,22 +12,22 @@ show_sidebar: false
 
 UNAGI is developed and actively maintained by [the Ding Lab](https://junding.lab.mcgill.ca/) at McGill University.
 
-[Visit UNAGI](http://dinglab.rimuhc.ca/unagi/){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/Karlxy0511/IPF_Dashboard){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Visit UNAGI](http://dinglab.rimuhc.ca/unagi/) [View it on GitHub](https://github.com/Karlxy0511/IPF_Dashboard)
 
 ---
 ## Installation
 For full instructions, please see the [Installation](/docs/getting-started/installation/)
 
 ## Notes
-* https://www.nature.com/articles/s41598-018-28948-z#Sec1
-* http://www.cs.cmu.edu/~jund/idrem_lung/
-* https://lungmap.net/idrem/index.html
-* https://toppgene.cchmc.org/CheckInput.action?query=TOPPFUN&type=HGNC_SYNONYMS&training_set=
+* [https://www.nature.com/articles/s41598-018-28948-z#Sec1](https://www.nature.com/articles/s41598-018-28948-z#Sec1)
+* [http://www.cs.cmu.edu/~jund/idrem_lung/](http://www.cs.cmu.edu/~jund/idrem_lung/)
+* [https://lungmap.net/idrem/index.html](https://lungmap.net/idrem/index.html)
+* [https://toppgene.cchmc.org/CheckInput.action?query=TOPPFUN&type=HGNC_SYNONYMS&training_set=](https://toppgene.cchmc.org/CheckInput.action?query=TOPPFUN&type=HGNC_SYNONYMS&training_set=)
 
 
 ## Links
-* UNAGI Web Server: http://dinglab.rimuhc.ca/unagi/
-* Official Source Code Repository: https://github.com/Karlxy0511/IPF_Dashboard
+* UNAGI Web Server: [http://dinglab.rimuhc.ca/unagi/](http://dinglab.rimuhc.ca/unagi/)
+* Official Source Code Repository: [https://github.com/Karlxy0511/IPF_Dashboard](https://github.com/Karlxy0511/IPF_Dashboard)
 
 ### License
 UNAGI is distributed by an [MIT license](https://github.com/Karlxy0511/IPF_Dashboard/blob/main/LICENSE.md).
