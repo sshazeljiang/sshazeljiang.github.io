@@ -30,4 +30,4 @@ For full instructions, please see the [Installation](/docs/getting-started/insta
 * Official Source Code Repository: https://github.com/Karlxy0511/IPF_Dashboard
 
 ### License
-UNAGI is distributed by an [MIT license]().
+UNAGI is distributed by an [MIT license](https://github.com/Karlxy0511/IPF_Dashboard/blob/main/LICENSE.md).
