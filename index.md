@@ -12,7 +12,8 @@ show_sidebar: false
 
 UNAGI is developed and actively maintained by [DingLab](https://junding.lab.mcgill.ca/) at McGill University.
 
-[Visit UNAGI](http://dinglab.rimuhc.ca/unagi/) [View it on GitHub](https://github.com/Karlxy0511/IPF_Dashboard)
+[Visit UNAGI](http://dinglab.rimuhc.ca/unagi/) 
+[View it on GitHub](https://github.com/Karlxy0511/IPF_Dashboard)
 
 ---
 ## Installation
