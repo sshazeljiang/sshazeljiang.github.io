@@ -11,7 +11,9 @@ Tutorial - Basic Analysis Pipeline
 This is a step by step demonstration of the basic functionalities of UNAGI.
 
 UNAGI accepts .h5ad files and uses AnnData data structure for storing and analyzing. 
-<img src="../images/overview_1.png" class="center"/>
+<div class="code-example step" markdown="1">
+   <img src="../images/overview_1.png" class="center"/>
+</div>
 UNAGI can be viewed as two parts: two panels on the left side for clusters and genes selection and five tabs 
 on the right side for results presentation. We are at the graph tab upon initialization. Inside graph tab, we have a
 2D visualization of the tracks and a scatter plot colored by cluster types. The default coloring type of the scatter
