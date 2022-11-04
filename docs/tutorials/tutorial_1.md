@@ -20,9 +20,11 @@ on the right side for results presentation. We are at the graph tab upon initial
 plot is cluster, but we can use the dropdown menu to select different coloring options.
 <img src="../images/cluster_2.png" class="center"/>
 
+
 In the 2D visualization graph, each dot represents a cluster and each column represents a stage. We can click the dots
 to view the gene expression of that cluster. The results are usually shown in 2s.
 <img src="../images/track_1.png" class="center"/>
+
 
 We can also select the track we want to analyze in the dynamics panel on the left.
 If a control cluster is selected, the clusters for different stages will be automatically filled in. 
@@ -30,22 +32,28 @@ Once you have selected a track, click "Confirm Track" to confirm. After this, th
 show the results of the selected clusters in a few seconds.
 <img src="../images/dyna_2.jpeg" class="center"/>
 
+
 We can also click the "3D" button in the dynamics panel to view the 3D visualization. To go back, we can simply click 
 "3D" again.
 <img src="../images/3d_1.png" class="center"/>
 
+
 After selecting a track, we can go to the Percentage tab to see percentage of cells in each stage and in each cluster. 
 <img src="../images/perc_1.png" class="center"/>
 
+
 In the gene panel, we can select two clusters to compare their gene expression. Click "compare"
 after selecting two clusters and the results will be shown in a few seconds.
+
 
 We can also select genes to plot heatmaps, violin plots, umaps, and gene graphs.
 <img src="../images/gene_3.png" class="center"/>
 <img src="../images/gene_2.png" class="center"/>
 
+
 The plots are now displayed in the gene tab.
 <img src="../images/genetab_2.png" class="center"/>
+
 
 We can use the dropdown menu above each graph to display other graphs.
 <img src="../images/genetab_1.png" class="center"/>
