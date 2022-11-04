@@ -39,8 +39,13 @@ After selecting a track, we can go to the Percentage tab to see percentage of ce
 
 In the gene panel, we can select two clusters to compare their gene expression. Click "compare"
 after selecting two clusters and the results will be shown in a few seconds.
+
+We can also select genes to plot heatmaps, violin plots, umaps, and gene graphs.
 <img src="../images/gene_3.png" class="center"/>
 <img src="../images/gene_2.png" class="center"/>
 
+The plots are now displayed in the gene tab.
 <img src="../images/genetab_2.png" class="center"/>
+
+We can use the dropdown menu above each graph to display other graphs.
 <img src="../images/genetab_1.png" class="center"/>
