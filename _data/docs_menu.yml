@@ -13,16 +13,16 @@
       link: /docs/components/sidebar/
       items:
         - name: Path Selection
-          link: /path_selection/
+          link: /docs/components/sidebar/path_selection/
         - name: Gene Analysis
-          link: /gene_analysis/
+          link: /docs/components/sidebar/gene_analysis/
         - name: Perturbation Panel
-          link: /perturbation_panel/
+          link: /docs/components/sidebar/perturbation_panel/
     - name: Analysis
       link: /docs/components/analysis/
       items:
         - name: Graph Tab
-          link: /graph_tab/
+          link: /docs/components/analysis/graph_tab/
     - name: Other
       link: /docs/components/other/
 
