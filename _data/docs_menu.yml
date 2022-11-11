@@ -13,6 +13,8 @@
       link: /docs/components/sidebar/
     - name: Analysis
       link: /docs/components/analysis/
+    - name: Other
+      link: /docs/components/other/
 
 - label: Tutorials
   items:
