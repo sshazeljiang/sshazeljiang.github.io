@@ -23,6 +23,14 @@
       items:
         - name: Graph Tab
           link: /docs/components/analysis/graph_tab/
+        - name: Gene Analysis
+          link: /docs/components/analysis/gene_tab/
+        - name: Percentage Analysis
+          link: /docs/components/analysis/percentage_tab/
+        - name: Intrastage Analysis
+          link: /docs/components/analysis/intrastage_tab/
+        - name: Dendrogram
+          link: /docs/components/analysis/dendrogram_tab/
     - name: Other
       link: /docs/components/other/
 
