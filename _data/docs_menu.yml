@@ -10,9 +10,9 @@
     - name: Overview
       link: /docs/components/overview/
     - name: Sidebar
-    link: /docs/components/sidebar/
+      link: /docs/components/sidebar/
     - name: Analysis
-    link: /docs/components/analysis/
+      link: /docs/components/analysis/
 
 - label: Tutorials
   items:
