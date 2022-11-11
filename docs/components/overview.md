@@ -20,11 +20,10 @@ This is UNAGI's main view during a typical workflow.
 Sidebar
 {: .label .label-orange}
 The sidebar consists of five panels. The first two deal with dimensionality reduction and clustering - two important steps when analyzing single cell data. The third panel is used to store annotations (cell types) for every cluster. The fourth and the fifth contain general tools such as subset and session management. {: .fs-6 .fw-300 }
-1. 
-2. [**Path Selection**](sidebar/path_selection)
-3. [**Gene Analysis**](sidebar/gene_analysis)
-4. [**DEG**](sidebar/)
-5. [**Perturbation Panel**](sidebar/perturbation_panel)
+1. [**Path Selection**](sidebar/path_selection)
+2. [**Gene Analysis**](sidebar/gene_analysis)
+3. [**DEG**](sidebar/)
+4. [**Perturbation Panel**](sidebar/perturbation_panel)
 
 Analysis
 {: .label .label-blue}
