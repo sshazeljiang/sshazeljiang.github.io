@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Analysis
-parent: Components
+title: Graph Tab
+parent: Analysis
 ---
 analysis placeholder

@@ -9,46 +9,28 @@ toc: true
 
 # Overview
 
-Here we provide a list of UNAGI's main UI components. Each panel
-will be described in detail in the following pages.
+Here we provide a list of UNAGI's main UI components. Each panel will be described in detail in the following pages.{: .fs-6 .fw-300 }
 
 ---
 
 This is UNAGI's main view during a typical workflow.
 
-<img src="../../images/main-ui-numbered.png"/>
+<img src="../images/overview_labeled.png" class="center"/>
 
 Sidebar
-{: .label .label-blue}
-
-1. [**Dimensionality Reduction**](sidebar/dimensionality-reduction)
-2. [**Clustering**](sidebar/clustering)
-3. [**Annotations**](sidebar/annotations)
-4. [**Tools**](sidebar/tools)
-5. [**Session**](sidebar/session)
+{: .label .label-orange}
+The sidebar consists of five panels. The first two deal with dimensionality reduction and clustering - two important steps when analyzing single cell data. The third panel is used to store annotations (cell types) for every cluster. The fourth and the fifth contain general tools such as subset and session management. {: .fs-6 .fw-300 }
+1. 
+2. [**Path Selection**](sidebar/dimensionality-reduction)
+3. [**Gene Analysis**](sidebar/clustering)
+4. [**DEG**](sidebar/annotations)
+5. [**Perturbation Panel**](sidebar/tools)
 
 Analysis
-{: .label .label-yellow}
+{: .label .label-blue}
 
-1. [**DE Analysis**](analysis/de)
-2. [**Feature Visualization**](analysis/feature-visualization)
-3. [**Enrichment Analysis**](analysis/enrich)
-
-Other
-{: .label .label-red}
-
-1. [**Navigation Bar**](other/navigation-bar)
-2. [**Data Shape**](other/data-shape)
-3. [**Plot**](other/plot)
-4. [**Footer**](other/footer)
-
----
-
-<img src="../../images/spatial-ui-numbered.png"/>
-
-Spatial Related
-{: .label .label-green}
-
-1. [**Spatial Tile**](spatial/tile)
-2. [**Cluster Co-Localization Score**](spatial/coloc)
-3. [**Protein Co-Localization Score**](spatial/coloc)
+1. [**Graph Tab**](analysis/de)
+2. [**Gene Tab**](analysis/feature-visualization)
+3. [**Percentage Tab**](analysis/enrich)
+4. [**Intrastage Tab**](analysis/enrich)
+5. [**Dendrogram Tab**](analysis/enrich)
