@@ -5,6 +5,14 @@
     - name: Core Dependencies
       link: /docs/getting-started/dependencies/
 
+- label: Components
+  items:
+    - name: Overview
+      link: /docs/components/overview/
+    - name: Sidebar
+    link: /docs/components/sidebar/
+    - name: Analysis
+    link: /docs/components/analysis/
 
 - label: Tutorials
   items:
