@@ -21,15 +21,15 @@ Sidebar
 {: .label .label-orange}
 The sidebar consists of five panels. The first two deal with dimensionality reduction and clustering - two important steps when analyzing single cell data. The third panel is used to store annotations (cell types) for every cluster. The fourth and the fifth contain general tools such as subset and session management. {: .fs-6 .fw-300 }
 1. 
-2. [**Path Selection**](sidebar/dimensionality-reduction)
-3. [**Gene Analysis**](sidebar/clustering)
-4. [**DEG**](sidebar/annotations)
-5. [**Perturbation Panel**](sidebar/tools)
+2. [**Path Selection**](sidebar/path_selection)
+3. [**Gene Analysis**](sidebar/gene_analysis)
+4. [**DEG**](sidebar/)
+5. [**Perturbation Panel**](sidebar/perturbation_panel)
 
 Analysis
 {: .label .label-blue}
 
-1. [**Graph Tab**](analysis/de)
+1. [**Graph Tab**](analysis/graph_tab)
 2. [**Gene Tab**](analysis/feature-visualization)
 3. [**Percentage Tab**](analysis/enrich)
 4. [**Intrastage Tab**](analysis/enrich)
