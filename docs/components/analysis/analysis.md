@@ -1,6 +1,8 @@
 ---
 layout: page
+menubar: docs_menu
 title: Analysis
-parent: Components
+show_sidebar: false
+toc: true
 ---
 analysis placeholder

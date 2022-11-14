@@ -1,6 +1,8 @@
 ---
 layout: page
+menubar: docs_menu
 title: Sidebar
-parent: Components
+show_sidebar: false
+toc: true
 ---
 Sidebar placeholder
