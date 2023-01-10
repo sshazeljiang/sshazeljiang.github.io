@@ -10,7 +10,8 @@ toc: true
     <img src="../images/panels_genes.png" width="30%" />
 </p>
 
-The dynamics panel contains two sub-panels: path selection and gene analysis.
+The dynamics panel contains two sub-panels and a dropdown menu: 
+path selection, gene analysis, and display mode.
 
 ## Path Selection
 Under Path Selection, you can select the clusters you want to investigate using the dropdown menus.
@@ -60,5 +61,13 @@ You can select genes in the two dropdown menus. Click 'Compare' when you finish 
 In a few seconds, a table containing
 <p align="center">
     <img src="../images/gene_analysis_2.png" width="30%" />
-    <img src="../images/gene_analysis_compare.png" width="90%" />
+    <img src="../../images/gene_analysis_compare.png" width="90%" />
 </p>
+
+## Display Mode
+<p align="center">
+    <img src="../images/display_mode.png" width="50%" />
+</p>
+
+### DEG
+The default display mode is DEG. Under DEG
