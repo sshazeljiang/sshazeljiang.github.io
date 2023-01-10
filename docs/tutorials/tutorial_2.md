@@ -8,9 +8,11 @@ toc: true
 ---
 Tutorial - Explore Graph Tab
 ---
-<img src="../../../images/graph_tab.png" class="center"/>
 The graph tab contains 2D and 3D visualization of the progression
 of cell behaviour in IPF patients and a umap section.
+<img src="../../../images/graph_tab.png" class="center"/>
+
+
 
 ## 2D Visualization of Clusters
 On the left of graph tab, there is a 2D visualization of the progression
@@ -60,7 +62,7 @@ umap you would like to display.
 There are three display mode: DEG, iDREM, and Highlight on Umap.
 We will explain each in details below.
 <p align="center">
-    <img src="../../../images/display_mode.png" width="50%" />
+    <img src="../../../images/display_mode.png" width="30%" />
 </p>
 
 ### DEG

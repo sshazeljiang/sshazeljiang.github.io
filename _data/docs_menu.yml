@@ -10,14 +10,12 @@
     - name: Overview
       link: /docs/components/overview/
     - name: Sidebar
-      link: /docs/components/sidebar/sidebar/
       items:
         - name: Dynamics Panel
           link: /docs/components/sidebar/dynamics_panel/
         - name: Perturbation Panel
           link: /docs/components/sidebar/perturbation_panel/
     - name: Analysis
-      link: /docs/components/analysis/analysis/
       items:
         - name: Graph Tab
           link: /docs/components/analysis/graph_tab/
