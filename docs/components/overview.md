@@ -15,7 +15,7 @@ Here we provide a list of UNAGI's main UI components. Each panel will be describ
 
 This is UNAGI's main view during a typical workflow.
 
-<img src="../../images/overview_labeled.png" class="center"/>
+<img src="../../../images/overview_labeled.png" class="center"/>
 
 Sidebar
 The sidebar consists of two panels: Dynamics Panel and Perturbation Panel.
