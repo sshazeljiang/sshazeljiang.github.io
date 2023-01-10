@@ -40,8 +40,12 @@
       link: /docs/tutorials/tutorial_2/
     - name: Tutorial 3 - Explore Gene Tab
       link: /docs/tutorials/tutorial_3/
-    - name: Tutorial 3 - Explore Percentage Tab
+    - name: Tutorial 4 - Explore Percentage Tab
       link: /docs/tutorials/tutorial_4/
+    - name: Tutorial 5 - Explore Intrastage Tab
+      link: /docs/tutorials/tutorial_5/
+    - name: Tutorial 6 - Explore Dendrogram Tab
+      link: /docs/tutorials/tutorial_6/
 
 - label: Contact
   items:

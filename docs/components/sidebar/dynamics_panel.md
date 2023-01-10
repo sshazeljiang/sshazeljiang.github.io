@@ -66,7 +66,7 @@ In a few seconds, a table containing
 
 ## Display Mode
 <p align="center">
-    <img src="../../../images/display_mode.png" width="50%" />
+    <img src="../../../images/display_mode.png" width="40%" />
 </p>
 
 ### DEG

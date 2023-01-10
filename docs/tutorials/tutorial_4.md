@@ -17,5 +17,5 @@ After you finish selecting, click 'Confirm Track'.
 A plot showing the relative percentage of cells in each stage and cluster will be shown in the percentage tab.
 
 <p align="center">
-    <img src="../../images/perc_1.png" width="100%" />
+    <img src="../../../images/perc_1.png" width="100%" />
 </p>
