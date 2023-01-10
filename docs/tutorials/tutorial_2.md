@@ -77,7 +77,7 @@ you will be directed to a new iDREM page. If the cluster you
 clicked doesn't have a complete track, a notification will
 pop up.
 <p align="center">
-    <img src="../../../images/idrem_1.png" width="90%" />
+    <img src="../../../images/idrem_1.png" width="50%" />
     <img src="../../../images/idrem_2.png" width="90%" />
 </p>
 
@@ -85,5 +85,5 @@ pop up.
 Under this mode, when you click a cluster, that cluster will be
 highlighted in the umap.
 <p align="center">
-    <img src="../../../images/highlight_on_umap.png" width="90%" />
+    <img src="../../../images/highlight_on_umap.png" width="60%" />
 </p>
