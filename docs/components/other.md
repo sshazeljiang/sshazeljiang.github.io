@@ -1,6 +1,9 @@
 ---
 layout: page
-title: Other
-parent: Components
+menubar: docs_menu
+title: Components
+subtitle: Other
+show_sidebar: false
+toc: true
 ---
-placeholder
+![Book logo](/images/draw.png)

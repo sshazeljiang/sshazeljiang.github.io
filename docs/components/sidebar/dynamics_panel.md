@@ -30,6 +30,9 @@ Click to highlight the selected clusters in the lineage plot in graph tab.
   <img src="../../../images/draw.png" width="90%" />
 </p>
 
+
+
+
 #### 3D
 Click to show the 3D lineage plot. The selected track will be highlighted.
 Click again to return the 2D visualization.
