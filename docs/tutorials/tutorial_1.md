@@ -25,7 +25,7 @@ Now we can go to the perturbation panel. We need to select a track,
 a compound, the stage, and the times of change. After all selections are
 made, click "Perturb" button.
 <p align="center">
-  <img src="../../../images/pert_panel.png" width="30%"/>
+  <img src="../../../images/pert_panel.png" width="20%"/>
 </p>
 
 The calculation will finish in a few seconds. A table will pop out with the

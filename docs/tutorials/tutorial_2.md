@@ -8,7 +8,7 @@ toc: true
 ---
 Tutorial - Explore Graph Tab
 ---
-The graph tab contains 2D and 3D lineage plots and a umap section.
+In this tutorial, we will show you how to navigate the graph tab.
 <img src="../../../images/graph_tab.png" class="center"/>
 
 
