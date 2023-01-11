@@ -15,8 +15,8 @@ of gene expression.
 First you need to select a track and the genes you would
 like to investigate in the sidebar.
 <p align="center">
-    <img src="../../../images/panels_cluster.png" width="30%" />
-    <img src="../../../images/panels_genes.png" width="30%" />
+    <img src="../../../images/panels_cluster.png" width="20%" />
+    <img src="../../../images/panels_genes.png" width="20%" />
 </p>
 
 After a few seconds, the plots will be shown in the gene tab.

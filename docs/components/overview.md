@@ -21,13 +21,13 @@ Sidebar
 The sidebar consists of two panels: Dynamics Panel and Perturbation Panel.
 The Dynamics Panel deals with .....
 The Perturbation Panel deals with .....
-1. [**Dynamics Panel**](sidebar/dynamics_panel)
-2. [**Perturbation Panel**](sidebar/perturbation_panel)
+1. [**Dynamics Panel**](../sidebar/dynamics_panel)
+2. [**Perturbation Panel**](../sidebar/perturbation_panel)
 
 Analysis
 
-1. [**Graph Tab**](analysis/graph_tab)
-2. [**Gene Tab**](analysis/gene_tab)
-3. [**Percentage Tab**](analysis/percentage_tab)
-4. [**Intrastage Tab**](analysis/intrastage_tab)
-5. [**Dendrogram Tab**](analysis/dendrogram_tab)
+1. [**Graph Tab**](../analysis/graph_tab)
+2. [**Gene Tab**](../analysis/gene_tab)
+3. [**Percentage Tab**](../analysis/percentage_tab)
+4. [**Intrastage Tab**](../analysis/intrastage_tab)
+5. [**Dendrogram Tab**](../analysis/dendrogram_tab)
