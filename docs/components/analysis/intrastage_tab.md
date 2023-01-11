@@ -10,7 +10,7 @@ cell dynamics and the bottom panel contains plots related to cell-cell interacti
 the dropdown menu to select the plots you want to display. You can also clik the plots to be 
 directed to a new tab where you can download the pdf of the plots.
 <p align="center">
-    <img src="../../../images/intrastage.png" width="100%" />
+    <img src="../../../../images/intrastage.png" width="100%" />
 </p>
 
 ## Cell Dynamics

@@ -9,7 +9,7 @@ In Gene Tab, you can find the plots generated based on your cluster and gene sel
 A tutorial on navigating the gene tab can be found [**here**](../../../tutorials/tutorial_3/).
 
 <p align="center">
-    <img src="../../../images/gene_tab.png" width="100%" />
+    <img src="../../../../images/gene_tab.png" width="100%" />
 </p>
 
 ## Heat Map
