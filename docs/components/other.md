@@ -6,4 +6,4 @@ subtitle: Other
 show_sidebar: false
 toc: true
 ---
-![Book logo](/images/draw.png)
+placeholder
