@@ -5,4 +5,7 @@ title: Analysis - Intrastage Tab
 show_sidebar: false
 toc: true
 ---
-analysis placeholder
+The Intrastage Tab contains two subpanels. The top panel... the bottom panel
+<p align="center">
+    <img src="../../../images/intrastage.png" width="100%" />
+</p>

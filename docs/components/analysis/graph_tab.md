@@ -5,7 +5,6 @@ title: Analysis - Graph Tab
 show_sidebar: false
 toc: true
 ---
-analysis placeholder
 
 We are at the graph tab upon initialization. On the left, there is a 2D visualization of the tracks. 
 On the right, there is a scatter plot with different coloring options. The default coloring type of the scatter

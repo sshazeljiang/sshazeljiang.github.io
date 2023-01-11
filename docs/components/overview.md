@@ -25,7 +25,6 @@ The Perturbation Panel deals with .....
 2. [**Perturbation Panel**](../sidebar/perturbation_panel)
 
 Analysis
-
 1. [**Graph Tab**](../analysis/graph_tab)
 2. [**Gene Tab**](../analysis/gene_tab)
 3. [**Percentage Tab**](../analysis/percentage_tab)
