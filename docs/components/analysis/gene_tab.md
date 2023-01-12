@@ -13,6 +13,9 @@ A tutorial on navigating the gene tab can be found [**here**](../../../tutorials
 </p>
 
 ## Heat Map
+The heatmap will be drawn using scanpy. The y-axis
+will be the gene(s) you select and the x-axis is
+the gene expression of genes grouped by leiden.
 
 ## Gene Graph
 
