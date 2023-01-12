@@ -18,9 +18,6 @@ This is UNAGI's main view during a typical workflow.
 <img src="../../../images/overview_labeled.png" class="center"/>
 
 Sidebar
-The sidebar consists of two panels: Dynamics Panel and Perturbation Panel.
-The Dynamics Panel deals with .....
-The Perturbation Panel deals with .....
 1. [**Dynamics Panel**](../sidebar/dynamics_panel)
 2. [**Perturbation Panel**](../sidebar/perturbation_panel)
 

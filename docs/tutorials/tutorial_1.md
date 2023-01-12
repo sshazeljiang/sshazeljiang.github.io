@@ -11,7 +11,7 @@ Tutorial - Basic Analysis Pipeline
 This is a step by step demonstration of the basic user flow of 
 finding a drug with a high perturbation score.
 
-First we need to select a track in the path selection panel and genes in the gene
+First you need to select a track in the path selection panel and genes in the gene
 analysis panel. 
 
 <p align="center">
@@ -19,11 +19,12 @@ analysis panel.
   <img src="../../../images/panels_genes.png" width="20%" />
 </p>
 
-Different plots will be drawn based on your selection. Details on the tabs can be accessed here.
+Different plots will be drawn in the tabs based on your selection. 
+Details can be found in [**tutorial 2**](../tutorial_2/) and [**tutorial 3**](../tutorial_3/).
 
 Now we can go to the perturbation panel. We need to select a track,
 a compound, the stage, and the times of change. After all selections are
-made, click "Perturb" button.
+made, click "Perturb" button to start the calculation.
 <p align="center">
   <img src="../../../images/pert_panel.png" width="20%"/>
 </p>
