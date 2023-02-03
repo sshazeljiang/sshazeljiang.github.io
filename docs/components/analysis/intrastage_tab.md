@@ -14,7 +14,7 @@ directed to a new tab where you can download the pdf of the plots.
 </p>
 
 ## Cell Dynamics
-### PAGA
+### PAGA Plot
 Partition-based graph abstraction shows high connectivity between two node via the thickness of the edges. 
 This graph associates a node with each partition and connecting each node via weighted edges that indicate a statistical measure of partition connectivity.
 This is done by the scanpy package.
@@ -29,13 +29,13 @@ The velocity vector field, represented as streamlines, provides fine-grained ins
 </p>
 
 ## Cell-cell Interaction
-### Bubble
+### Bubble Plot
 We can show all the significant interactions (L-R pairs) from some cell groups to other cell groups using netVisual_bubble in the cellchat packages. The color of the circle indicates communication prob
 <p align="center">
     <img src="../../../../images/bubble.png" width="60%" />
 </p>
 
-### Signal
+### Signal Plot
 Identify signals contributing most to outgoing or incoming signaling of certain cell groups. We can also answer the question on which signals contributing most to outgoing or incoming signaling of certain cell groups.
 <p align="center">
     <img src="../../../../images/signal.png" width="60%" />
