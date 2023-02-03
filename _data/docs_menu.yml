@@ -27,8 +27,6 @@
           link: /docs/components/analysis/intrastage_tab/
         - name: Dendrogram
           link: /docs/components/analysis/dendrogram_tab/
-    - name: Other
-      link: /docs/components/other/
 
 - label: Tutorials
   items:
