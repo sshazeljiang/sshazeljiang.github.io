@@ -7,6 +7,6 @@ show_sidebar: false
 toc: true
 ---
 
-# Some contact infomation
+# Contact
 
 ---
