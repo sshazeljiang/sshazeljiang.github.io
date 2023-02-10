@@ -32,9 +32,13 @@ For full instructions, please see the [Installation](/docs/getting-started/insta
 
 ## Developer Information
 Yumin Zheng - email: yumin.zheng@mail.mcgill.ca
+
 Paul Hansen - email: paul.hansen@mail.mcgill.ca
+
 Shuaishuai Jiang - email: shuaishuai.jiang@mail.mcgill.ca
+
 Yiqing Zhu - email: yiqing.zhu2@mail.mcgill.ca
+
 Hassan Gaber - email: hassan.gaber@mail.mcgill.ca
 
 ### License
