@@ -34,9 +34,12 @@ You can click the "3D" button in the Path Selection panel to
 view the 3D lineage plot. Click "3D" again to return to the 2D
 lineage plot.
 
-## UMAPS
+## UMAPS of latent cell representation
 You can use the dropdown menus above the umap to change
 the stage and the coloring option. You can also change
 the display mode to "Highlight on Umap" where clicking 
-a data point in the 2D lineage plot will produce a umap
+a data point in the 2D lineage plot will produce an umap
 with that cluster being highlighted.
+<p align="center">
+    <img src="../../../../images/umap_1.png" width="60%" />
+</p>
