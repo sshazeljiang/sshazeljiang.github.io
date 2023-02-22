@@ -30,16 +30,15 @@ For full instructions, please see the [Installation](/docs/getting-started/insta
 * UNAGI Web Server: [http://dinglab.rimuhc.ca/unagi/](http://dinglab.rimuhc.ca/unagi/)
 * Official Source Code Repository: [https://github.com/Karlxy0511/IPF_Dashboard](https://github.com/Karlxy0511/IPF_Dashboard)
 
-## Developer Information
-Yumin Zheng - email: yumin.zheng@mail.mcgill.ca
+## Credits
+Yumin Zheng developed, trained, and fine-tuned the UNAGI model.
 
-Paul Hansen - email: paul.hansen@mail.mcgill.ca
+Paul Hansen, Hassan Gaber, Shuaishuai Jiang, and Yiqing Zhu contributed
+to the development of the website.
 
-Shuaishuai Jiang - email: shuaishuai.jiang@mail.mcgill.ca
-
-Yiqing Zhu - email: yiqing.zhu2@mail.mcgill.ca
-
-Hassan Gaber - email: hassan.gaber@mail.mcgill.ca
+## Questions and Help Requests
+If you want to ask for help, report problems, or share insights,
+feel free to send an email to yumin.zheng@mail.mcgill.ca.
 
 ### License
 UNAGI is distributed by an [MIT license](https://github.com/Karlxy0511/IPF_Dashboard/blob/main/LICENSE.md).
